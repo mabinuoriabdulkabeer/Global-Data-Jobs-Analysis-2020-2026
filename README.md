@@ -26,6 +26,10 @@ The interactive Excel dashboard built with Power Pivot, DAX measures, and dynami
 
 ---
 
+## Dashboard
+![Dashboard](https://github.com/mabinuoriabdulkabeer/Global-Data-Jobs-Analysis-2020-2026/blob/main/Global%20Data%20Jobs%20Analysis%20Dashboard.png)
+
+
 ## Dataset
 
 | Field | Description |
@@ -100,8 +104,6 @@ Built an interactive dashboard in Excel using Power Pivot and DAX with:
 - Year slicer connected to all visuals
 - Job title and remote type slicers for drill-down
 
-## Dashboard
-![Dashboard](https://github.com/mabinuoriabdulkabeer/Global-Data-Jobs-Analysis-2020-2026/blob/main/Global%20Data%20Jobs%20Analysis%20Dashboard.png)
 
 ---
 
