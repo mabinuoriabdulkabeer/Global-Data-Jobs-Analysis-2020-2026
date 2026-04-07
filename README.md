@@ -101,7 +101,7 @@ Built an interactive dashboard in Excel using Power Pivot and DAX with:
 - Job title and remote type slicers for drill-down
 
 ## Dashboard
-![Dashboard](  )
+![Dashboard](https://github.com/mabinuoriabdulkabeer/Global-Data-Jobs-Analysis-2020-2026/blob/main/Global%20Data%20Jobs%20Analysis%20Dashboard.png)
 
 ---
 
